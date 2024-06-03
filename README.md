@@ -10,6 +10,6 @@ The dashboard presents data through various charts, graphs, and tables, allowing
 * Dounght charts to represent the distribution of accidents by different factors Serious Casualties weather conditions (e.g., weather conditions, time of day).
 # Filters and Drill-Downs:
 
-Date range selectors to filter data by specific periods.
-Geographic filters to focus on specific regions or cities.
-Category filters (e.g., type of accident, vehicle involved, etc.).
+* Date range selectors to filter data by specific periods.
+* Geographic filters to focus on specific regions or cities.
+* Category filters (e.g., type of accident, vehicle involved, etc.).
