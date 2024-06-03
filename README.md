@@ -8,6 +8,7 @@ The dashboard presents data through various charts, graphs, and tables, allowing
 * Line charts to show accident trends over time.Total Casualties, Fatal casualties, serious casualties, and slight casualties
 * Bar charts for categorizing accidents by type, serious Casualties Road surface, and severity.
 * Dounght charts to represent the distribution of accidents by different factors Serious Casualties weather conditions (e.g., weather conditions, time of day).
+* Map chart is showing specific country United Kingdom where is the Accident happened, showing in douted points
 # Filters and Drill-Downs:
 
 * Date range selectors to filter data by specific periods.
