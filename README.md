@@ -13,3 +13,26 @@ The dashboard presents data through various charts, graphs, and tables, allowing
 * Date range selectors to filter data by specific periods.
 * Geographic filters to focus on specific regions or cities.
 * Category filters (e.g., type of accident, vehicle involved, etc.).
+# Data Tables:
+* Detailed tables with the ability to sort and search specific records.
+* Export functionality to download data tables in CSV or Excel format.
+# Usage
+# Loading Data
+* Place the accident data file (CSV format) in the data directory.
+* Ensure the data file is named accidents.csv
+# Customization
+* To customize the dashboard's appearance or functionality, edit.
+* Modify the chart configurations and data processing logic as needed.
+
+# Data Structure
+The accident data CSV file should have the following columns (adjust based on your dataset):
+
+* Date: The date of the accident.
+* Location: The location where the accident occurred.
+* Type: The type of accident.
+* Severity: The severity level of the accident.
+* Vehicles Involved: Number and type of vehicles involved.
+* Weather Conditions: Weather conditions during the accident.
+* Time of Day: The time when the accident occurred.
+
+  This README provides a comprehensive guide to setting up and using the Road Accident Dashboard. 
